@@ -1,0 +1,15 @@
+Requirements for 03_Optimal_MCDM_Routing_Analysis.ipynb
+
+This list specifies the key dependencies required to run the Jupyter Notebook.
+
+Geospatial Raster I/O library
+
+rasterio==1.4.3
+
+Fundamental library for numerical and array operations
+
+numpy==1.26.4
+
+Library for creating static, interactive, and animated visualizations
+
+matplotlib==3.8.4
